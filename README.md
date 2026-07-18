@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/ChaoyuWang04/MoE-DeepEP">
+  <a href="https://github.com/ChaoyuWang04/Switchboard_MoE-DeepEP">
     <img src="images/logo.jpg" alt="Switchboard banner" width="100%">
   </a>
 
@@ -147,7 +147,7 @@ Issues and pull requests are welcome. The highest-leverage areas:
 
 ## Links
 
-- Project: [https://github.com/ChaoyuWang04/MoE-DeepEP](https://github.com/ChaoyuWang04/MoE-DeepEP)
+- Project: [https://github.com/ChaoyuWang04/Switchboard_MoE-DeepEP](https://github.com/ChaoyuWang04/Switchboard_MoE-DeepEP)
 - Author: [Chaoyu Wang](https://www.linkedin.com/in/samwang04/)
 
 ## License
