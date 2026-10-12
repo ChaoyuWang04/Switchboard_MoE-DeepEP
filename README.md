@@ -9,8 +9,8 @@
 <p align="center">
   Bottom-up dissection of MoE expert parallelism — real routing-skew capture from DeepSeek-V2-Lite, hand-written fused grouped-GEMM Triton kernels, and two-phase all-to-all dispatch/combine with comm–compute overlap on 2×H100 — culminating in a boundary proof of why DeepEP exists.
   <br /><br />
-  | <a href="https://github.com/ChaoyuWang04/AdCampaignAgent-SFT/issues/new?labels=bug&template=bug-report---.md">Report Bug</a> |
-  <a href="https://github.com/ChaoyuWang04/AdCampaignAgent-SFT/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> |
+  | <a href="https://github.com/ChaoyuWang04/Switchboard_MoE-DeepEP/issues/new?labels=bug">Report Bug</a> |
+  <a href="https://github.com/ChaoyuWang04/Switchboard_MoE-DeepEP/issues/new?labels=enhancement">Request Feature</a> |
 </p>
 
 </div>
